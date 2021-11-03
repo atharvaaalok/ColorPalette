@@ -1,0 +1,6 @@
+Add the above folder "Color Palette" to MATLAB path.
+To do this follow these steps.
+
+Open MATLAB -> Home -> Set Path -> Add folder -> Search for this folder and select and save.
+
+:)
